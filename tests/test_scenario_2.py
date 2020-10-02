@@ -30,12 +30,3 @@ class TestScenario2:
             report_file.write("Test Scenario_2 finished")
         finally:
             report_file.close()
-
-
-
-
-
-
-
-
-

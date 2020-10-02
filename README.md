@@ -5,6 +5,3 @@ In order to run the tests, you should perform the following steps:
 4.To run the tests, run the command "python main.py"
 5.The browser and the path to the directory with reports are set using environment variables: BROWSER and REPORT_DIR. 
 By default, the browser is set to "CHROME" and directory with reports is current directory.
-
-
-
